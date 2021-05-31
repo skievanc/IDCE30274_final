@@ -21,6 +21,9 @@ We create this layer by going through a process of creating other layers, reccla
 Each step can be easily visualized in R, using the plot function.  
 At the end, we create a colorscheme, and a couple visualiztions of the slope position layer we create. 
 
+![slope_pos](https://user-images.githubusercontent.com/75681753/120204585-fb781a80-c1f6-11eb-8e8d-5ec0aef07a28.png)
+Graphic by Adndrew D. Weiss, The Nature Conservancy
+
 ## Data
   
 For this tutorial we only need 1 USGS DEM. You will need to download it from USGS at https://www.sciencebase.gov/catalog/item/5f7784f982ce1d74e7d6cbce.  
