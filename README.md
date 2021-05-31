@@ -21,7 +21,7 @@ We create this layer by going through a process of creating other layers, reccla
 Each step can be easily visualized in R, using the plot function.  
 At the end, we create a colorscheme, and a couple visualiztions of the slope position layer we create. 
 
-![slope_pos](https://user-images.githubusercontent.com/75681753/120204585-fb781a80-c1f6-11eb-8e8d-5ec0aef07a28.png)
+![slope_pos](https://user-images.githubusercontent.com/75681753/120204585-fb781a80-c1f6-11eb-8e8d-5ec0aef07a28.png)  
 Graphic by Adndrew D. Weiss, The Nature Conservancy
 
 ## Data
