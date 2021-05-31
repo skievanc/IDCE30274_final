@@ -23,8 +23,10 @@ At the end, we create a colorscheme, and a couple visualiztions of the slope pos
 
 ## Data
   
-For this tutorial weonly need 1 USGS DEM. It is in the repository, but you also download it from USGS
-at https://www.sciencebase.gov/catalog/item/5f7784f982ce1d74e7d6cbce. It is USGS 1/3 arc-second tile n43w072, 1 x 1 degree.
+For this tutorial we only need 1 USGS DEM. You will need to download it from USGS at https://www.sciencebase.gov/catalog/item/5f7784f982ce1d74e7d6cbce.  
+The download link is near the bottom of the page, under the heading- Type: Download. It is a TIFF file.  
+Keep track of where you download the file to so you may open it in R.  
+It is USGS 1/3 arc-second tile n43w072, 1 x 1 degree.  
 It covers a space of 1 x 1 degree, in the region of central and eastern Massachusetts and southern New Hampshire. 
 We will clip the tile to only use the Massachusetts portion. Many other DEMs can be found free to download using USGS national map
 at https://apps.nationalmap.gov/downloader/#/.
