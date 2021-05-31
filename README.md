@@ -1,8 +1,8 @@
 # Raster GIS in R Tutorial
   
-Author: Evan Collins
-For IDCE30724
-5/30/2021
+Author: Evan Collins  
+For IDCE30724  
+5/30/2021  
   
 ## Tutorial 
   
