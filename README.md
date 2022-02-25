@@ -26,13 +26,14 @@ Graphic by Adndrew D. Weiss, The Nature Conservancy
 
 ## Data
   
-For this tutorial we only need 1 USGS DEM. You will need to download it from USGS at https://www.sciencebase.gov/catalog/item/5f7784f982ce1d74e7d6cbce.  
+For this tutorial we only need 1 USGS DEM. You will need to download it from USGS at https://www.sciencebase.gov/catalog/item/61934907d34eb622f68e8655.  
 The download link is near the bottom of the page, under the heading- Type: Download. It is a TIFF file.  
 
 ![type_dwnld](https://user-images.githubusercontent.com/75681753/120204319-ab995380-c1f6-11eb-9b26-e54b885d72d8.png)
   
 Keep track of where you download the file to so you may open it in R.  
-It is USGS 1/3 arc-second tile n43w072, 1 x 1 degree.  
+It is USGS 1/3 arc-second tile n43w072, 1 x 1 degree. 
+Name: USGS 1/3 Arc Second n43w072 20211109
 It covers a space of 1 x 1 degree, in the region of central and eastern Massachusetts and southern New Hampshire. 
 We will clip the tile to only use the Massachusetts portion. Many other DEMs can be found free to download using USGS national map
 at https://apps.nationalmap.gov/downloader/#/.
